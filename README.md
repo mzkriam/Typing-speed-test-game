@@ -13,4 +13,4 @@ This game has been developed with HTML, CSS, and JavaScript to provide a fun and
 - **Progress Tracking**: The ability to monitor improvements in typing speed and accuracy over time.
 
 
-![Typing Speed Test Game](https://github.com/mzkriam/Typing-speed-test-game/assets/73972415/b81a79d8-6ebd-49b3-a4ec-7c29161777fe)
+![Typing Speed Test Game](https://github.com/mzkriam/Typing-speed-test-game/assets/73972415/122f3249-bb78-4027-98da-ff14af992ab0)
